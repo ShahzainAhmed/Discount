@@ -1,2 +1,1 @@
-# Discount
-Discount program in Java.
+# D
