@@ -1,1 +1,1 @@
-# Calculate
+# Calculate Discount in Java.
